@@ -9,7 +9,7 @@
     <application
         android:label="FAR Manager"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@android:drawable/sym_def_app_icon"
         android:requestLegacyExternalStorage="true"
         android:allowBackup="true">
         <meta-data
